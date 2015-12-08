@@ -1,9 +1,13 @@
 {
   "name": "@bedegaming/global-request-logger",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "This module configures the http and https modules to raise logging events for every outgoing request.",
   "keywords": [
-    "http", "logger", "global", "request", "mixin"
+    "http",
+    "logger",
+    "global",
+    "request",
+    "mixin"
   ],
   "homepage": "https://github.com/meetearnest/global-request-logger",
   "main": "index.js",
