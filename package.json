@@ -1,5 +1,5 @@
 {
-  "name": "global-request-logger",
+  "name": "@bedegaming/global-request-logger",
   "version": "0.0.1",
   "description": "This module configures the http and https modules to raise logging events for every outgoing request.",
   "keywords": [
