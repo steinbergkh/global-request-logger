@@ -1,5 +1,5 @@
 {
-  "name": "@bedegaming/global-request-logger",
+  "name": "@steinbergkh/global-request-logger",
   "version": "0.0.2",
   "description": "This module configures the http and https modules to raise logging events for every outgoing request.",
   "keywords": [
@@ -39,5 +39,8 @@
     "istanbul": "~0.3.0",
     "sinon": "~1.10.3",
     "nock": "~0.45.0"
+  },
+  "publishConfig" : {
+    "registry" : "https://mvnrepo.nordstrom.net/nexus/content/repositories/nordNPM/"
   }
 }
