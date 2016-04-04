@@ -52,6 +52,8 @@ function attachLoggersToRequest(protocol, options, callback) {
     request: {},
     response: {}
   };
+  // set protocol explicitly, will be overridden if set by options
+  logInfo.request.protocol = protocol;
 
   // Extract request logging details
   if (typeof options === 'string') {
