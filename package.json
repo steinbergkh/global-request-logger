@@ -1,5 +1,5 @@
 {
-  "name": "@steinbergkh/global-request-logger",
+  "name": "global-request-logger",
   "version": "0.0.2",
   "description": "This module configures the http and https modules to raise logging events for every outgoing request.",
   "keywords": [
